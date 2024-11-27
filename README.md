@@ -1,8 +1,34 @@
-# React + Vite
+# MudiGhor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Make a online grocery store using react, whrere users can buy daily necessary items.
 
-Currently, two official plugins are available:
+## Installation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Clone my project using github
+
+```bash
+  git clone https://github.com/mahfuzahmedzisan/MudiGhor.git
+  cd my-project
+  npm install
+```
+
+## Install other tools, frames, librabrys or third party librabrys
+
+Tailwind CSS
+
+```bash
+npm i -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+```
+
+React Router Dom
+
+```bash
+npm i react-router-dom
+```
+
+React Icons
+
+```bash
+npm i react-icons
+```
