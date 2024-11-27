@@ -12,6 +12,11 @@ Clone my project using github
   npm install
 ```
 
+To run Project
+```bash
+   npm run dev
+```
+
 ## Install other tools, frames, librabrys or third party librabrys
 
 Tailwind CSS
