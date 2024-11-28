@@ -2,7 +2,7 @@ function App() {
 
   return (
     <>
-     <p>New Project</p>
+     <p>Change from unauthorized person</p>
     </>
   )
 }
